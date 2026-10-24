@@ -9,14 +9,21 @@ class Tweet {
 
 	//returns either 'live_event', 'achievement', 'completed_event', or 'miscellaneous'
     get source():string {
-        //TODO: identify whether the source is a live event, an achievement, a completed event, or miscellaneous.
-        return "unknown";
+        if (this.text.includes("#RKLive")) {
+            return "live_event";
+        }
+        if (this.text.includes("#FitnessAlerts") || this.text.includes(" pb ") || this.text.includes(" pr ")) {
+            return "achievement";
+        }
+        if (this.text.includes("completed") || this.text.includes("posted")) {
+            return "completed_event";
+        }
+        return "miscellaneous";
     }
 
     //returns a boolean, whether the text includes any content written by the person tweeting.
     get written():boolean {
-        //TODO: identify whether the tweet is written
-        return false;
+        return this.source === "completed_event" && this.text.includes("-");
     }
 
     get writtenText():string {
