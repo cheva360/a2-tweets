@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\js\\about.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\about.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\ts\\tweet.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ts\\tweet.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\js\\descriptions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\descriptions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\data\\saved_tweets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\saved_tweets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\ts\\tweet.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ts\\tweet.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\js\\activities.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\activities.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\activities.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:activities.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\js\\about.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\about.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\data\\saved_tweets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\saved_tweets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\descriptions.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:descriptions.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,80 +54,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\readme.txt",
+              "RelativeDocumentMoniker": "readme.txt",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\readme.txt",
+              "RelativeToolTip": "readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-26T01:49:15.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "saved_tweets.json",
               "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\data\\saved_tweets.json",
               "RelativeDocumentMoniker": "data\\saved_tweets.json",
               "ToolTip": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\data\\saved_tweets.json",
               "RelativeToolTip": "data\\saved_tweets.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAcwAwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABw2AAAAAAAAAAAcwCo2AAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-10-24T22:18:13.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "descriptions.html",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\descriptions.html",
+              "RelativeDocumentMoniker": "descriptions.html",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\descriptions.html",
+              "RelativeToolTip": "descriptions.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-26T00:27:17.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-10-24T21:56:23.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "activities.html",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\activities.html",
+              "RelativeDocumentMoniker": "activities.html",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\activities.html",
+              "RelativeToolTip": "activities.html",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-26T00:36:07.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "activities.js",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\js\\activities.js",
+              "RelativeDocumentMoniker": "js\\activities.js",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\js\\activities.js",
+              "RelativeToolTip": "js\\activities.js",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-24T22:10:38.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "about.js",
               "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\js\\about.js",
               "RelativeDocumentMoniker": "js\\about.js",
               "ToolTip": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\js\\about.js",
               "RelativeToolTip": "js\\about.js",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBMAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwB0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-10-24T22:10:37.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "tweet.ts",
               "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\ts\\tweet.ts",
               "RelativeDocumentMoniker": "ts\\tweet.ts",
               "ToolTip": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\ts\\tweet.ts",
               "RelativeToolTip": "ts\\tweet.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAA4wDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-10-24T22:10:17.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "descriptions.js",
               "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\js\\descriptions.js",
               "RelativeDocumentMoniker": "js\\descriptions.js",
               "ToolTip": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\js\\descriptions.js",
               "RelativeToolTip": "js\\descriptions.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-10-24T22:10:39.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "activities.js",
-              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\js\\activities.js",
-              "RelativeDocumentMoniker": "js\\activities.js",
-              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\a2-tweets\\js\\activities.js",
-              "RelativeToolTip": "js\\activities.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-10-24T22:10:38.327Z",
               "EditorCaption": ""
             }
           ]
